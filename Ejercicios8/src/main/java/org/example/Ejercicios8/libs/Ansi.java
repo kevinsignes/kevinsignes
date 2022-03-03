@@ -6,7 +6,7 @@ public class Ansi {
     }
 
     public enum ColorType {
-        FOREGROUND, BACKGROUND
+        FOREGROUND, BACKGROUND 
     }
 
     public static final String ESC = "\u001b[";
